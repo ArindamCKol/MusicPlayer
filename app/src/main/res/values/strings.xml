@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <string-array name="genre_name">
+        <item>Bangla Boul Song</item>
+        <item>Indian Classical</item>
+        <item>Western Country Song</item>
+        <item>Western Rock Song</item>
+        <item>Western Pop Song</item>
+        <item>Celtic Music</item>
+        <item>Spanish Guitar</item>
+        <item>Arabic Music</item>
+        <item>Bangla Modern Song - I</item>
+        <item>Bangla Modern Song - II</item>
+    </string-array>
+
+    <array name="genre_image">
+        <item>@drawable/baul</item>
+        <item>@drawable/ind_classical</item>
+        <item>@drawable/country</item>
+        <item>@drawable/rock</item>
+        <item>@drawable/pop</item>
+        <item>@drawable/scottish</item>
+        <item>@drawable/spanish_guiter</item>
+        <item>@drawable/arabic</item>
+        <item>@drawable/bangla_gaan</item>
+        <item>@drawable/hindi</item>
+    </array>
+</resources>

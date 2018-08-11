@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="song_image_id">
+        <item>@drawable/nodi_bhora_dheu</item>
+        <item>@drawable/bare_bare_ar_asa_hobe_na</item>
+        <item>@drawable/bedheche_emon_e_ghor</item>
+        <item>@drawable/chere_dile_sonar_gour</item>
+        <item>@drawable/khachar_bhitor_ochin_pakhi</item>
+        <item>@drawable/barir_kache_arshi_nagar</item>
+        <item>@drawable/chol_mini_assam_jabo</item>
+        <item>@drawable/sundori_komola</item>
+        <item>@drawable/de_pal_tule_de</item>
+        <item>@drawable/milon_hobe_koto_dine</item>
+
+        <item>@drawable/raghu_pati_raghav_raja_ram</item>
+        <item>@drawable/majhe_maher_pandhari</item>
+        <item>@drawable/yaad_piya_ki_aaye</item>
+        <item>@drawable/krishna_ni_begane_baro</item>
+        <item>@drawable/raga_bhimpalasi</item>
+        <item>@drawable/raag___brindabani_sarang</item>
+        <item>@drawable/pahari_dhun</item>
+        <item>@drawable/raga_piloo</item>
+        <item>@drawable/evening_raga</item>
+        <item>@drawable/music_of_the_mountain</item>
+
+        <item>@drawable/five_hundred_miles</item>
+        <item>@drawable/blowin_in_the_wind</item>
+        <item>@drawable/country_roads</item>
+        <item>@drawable/rocky_mountain</item>
+        <item>@drawable/sunshine_on_my_shoulders</item>
+        <item>@drawable/annies_song</item>
+        <item>@drawable/we_shall_overcome</item>
+        <item>@drawable/this_land_is_your_land</item>
+        <item>@drawable/little_boxes</item>
+        <item>@drawable/mr_tambourine_man</item>
+
+        <item>@drawable/hotel_california</item>
+        <item>@drawable/hey_jude</item>
+        <item>@drawable/yellow_submarine</item>
+        <item>@drawable/while_my_guitar_gently_weeps</item>
+        <item>@drawable/imagine</item>
+        <item>@drawable/beat_it</item>
+        <item>@drawable/stairway_to_heaven</item>
+        <item>@drawable/purple_haze</item>
+        <item>@drawable/bridge_over_troubled_water</item>
+        <item>@drawable/when_you_say_nothing_at_all</item>
+
+        <item>@drawable/another_day_in_paradise</item>
+        <item>@drawable/lady_in_red</item>
+        <item>@drawable/wonderful_tonight</item>
+        <item>@drawable/tears_in_heaven</item>
+        <item>@drawable/summer_of_69</item>
+        <item>@drawable/everything_i_do</item>
+        <item>@drawable/please_forgive_me</item>
+        <item>@drawable/hello</item>
+        <item>@drawable/i_just_called_to_say_i_love_you</item>
+
+        <item>@drawable/rocky_road_to_dublin</item>
+        <item>@drawable/maries_wedding</item>
+        <item>@drawable/long_gone</item>
+        <item>@drawable/star_of_the_county_down</item>
+        <item>@drawable/whiskey_in_the_jar</item>
+        <item>@drawable/toss_the_feathers</item>
+        <item>@drawable/joy_of_life</item>
+        <item>@drawable/haste_to_the_wedding</item>
+        <item>@drawable/auld_lang_syne</item>
+        <item>@drawable/the_king_of_the_highlands</item>
+
+        <item>@drawable/cartas_de_amor</item>
+        <item>@drawable/tango_flamenco</item>
+        <item>@drawable/malaguena</item>
+        <item>@drawable/noches_en_andaluca</item>
+        <item>@drawable/habla_me</item>
+        <item>@drawable/pure_paradise</item>
+        <item>@drawable/the_most_evolved</item>
+        <item>@drawable/entre_dos_aguas</item>
+        <item>@drawable/rio_ancho</item>
+        <item>@drawable/el_zorro</item>
+
+        <item>@drawable/didi</item>
+        <item>@drawable/desert_rose</item>
+        <item>@drawable/nari_nari</item>
+        <item>@drawable/mashallah</item>
+        <item>@drawable/al_madha</item>
+        <item>@drawable/habibi_ya_nour_el_ain</item>
+        <item>@drawable/sultana</item>
+        <item>@drawable/hasret</item>
+        <item>@drawable/ruya</item>
+        <item>@drawable/evlerinin_n_boyal_direk</item>
+
+        <item>@drawable/bokul_phul_bokul_phul</item>
+        <item>@drawable/ami_shunechi_sedin_tumi</item>
+        <item>@drawable/bhindeshi_tara</item>
+        <item>@drawable/mon</item>
+        <item>@drawable/bondhu_tomay</item>
+        <item>@drawable/ghum_ghum_classroom</item>
+        <item>@drawable/kande_sudhu_mon_keno</item>
+        <item>@drawable/orom_takiona</item>
+        <item>@drawable/faguner_mohonay</item>
+        <item>@drawable/lal_paharir_deshe_ja</item>
+
+        <item>@drawable/jokhon</item>
+        <item>@drawable/hasnuhana</item>
+        <item>@drawable/neel_rong_chilo_bhishon_priyo</item>
+        <item>@drawable/aamee_sudhu_cheyechi_tomai</item>
+        <item>@drawable/sei_tumi_keno_eto_ochena_hole</item>
+        <item>@drawable/se_ki_firbe_na</item>
+        <item>@drawable/tui_amay_pagol_korli_re</item>
+        <item>@drawable/kalankini_radha</item>
+        <item>@drawable/tomay_dilam</item>
+        <item>@drawable/shonogo_dokhino_haoya</item>
+    </array>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_artist">
+        <item>Krishna Das Boul</item>
+        <item>Krishna Das Boul</item>
+        <item>Krishna Das Boul</item>
+        <item>Krishna Das Boul</item>
+        <item>Krishna Das Boul</item>
+        <item>Lakhan Das Baul</item>
+        <item>Unknown</item>
+        <item>Basudeb Das Baul</item>
+        <item>Paban Das Baul</item>
+        <item>Paban Das Baul</item>
+
+        <item>Ustad Bismillah Khan</item>
+        <item>Pandit Bhimsen Joshi</item>
+        <item>Ustad Rashid Khan</item>
+        <item>Hariharan and Ustad Rashid Khan</item>
+        <item>Ustad Bismillah Khan</item>
+        <item>Ustad Bismillah Khan</item>
+        <item>Ravi Shankar</item>
+        <item>Ravi Shankar and Yehudi Menuhin</item>
+        <item>Ravi Shankar</item>
+        <item>Shiv Kumar Sharma</item>
+
+        <item>Joan Baez</item>
+        <item>Bob Dylan</item>
+        <item>John Denver</item>
+        <item>John Denver</item>
+        <item>John Denver</item>
+        <item>John Denver</item>
+        <item>Pete Seeger</item>
+        <item>Pete Seeger</item>
+        <item>Pete Seeger</item>
+        <item>Bob Dylan</item>
+
+        <item>Eagles</item>
+        <item>The Beatles</item>
+        <item>The Beatles</item>
+        <item>The Beatles</item>
+        <item>Ritchie Valens</item>
+        <item>John Lennon</item>
+        <item>Michael Jackson</item>
+        <item>Led Zeppelin</item>
+        <item>Jimi Hendrix</item>
+        <item>Simon and Garfunkel</item>
+
+        <item>Ronan Keating</item>
+        <item>Phil Collins</item>
+        <item>Chris DeBurgh</item>
+        <item>Eric Clapton</item>
+        <item>Eric Clapton</item>
+        <item>Bryan Adams</item>
+        <item>Bryan Adams</item>
+        <item>Bryan Adams</item>
+        <item>Lionel Richie</item>
+        <item>Stevie Wonder</item>
+
+        <item>The High Kings</item>
+        <item>The High Kings</item>
+        <item>Fiddlers Green</item>
+        <item>Angelo Kelly and Family</item>
+        <item>The Dubliners</item>
+        <item>The Corrs</item>
+        <item>The Corrs</item>
+        <item>The Corrs</item>
+        <item>Royal Scots Dragoon Guards</item>
+        <item>Antti Martikainen</item>
+
+        <item>Armik</item>
+        <item>Armik</item>
+        <item>Benise</item>
+        <item>Govi</item>
+        <item>Gipsy Kings</item>
+        <item>Armik</item>
+        <item>John H. Clarke</item>
+        <item>Paco de Lucia</item>
+        <item>Paco de Lucia</item>
+        <item>La Rumba</item>
+
+        <item>Khaled</item>
+        <item>Sting and Cheb Mami</item>
+        <item>Hesham Abbas</item>
+        <item>Ehab Tawfik</item>
+        <item>Al Firdaus Ensemble</item>
+        <item>Amr Diab</item>
+        <item>Harem</item>
+        <item>Omar Faruk Tekbilek</item>
+        <item>Kemal Bor</item>
+        <item>Öykü - Berk</item>
+
+        <item>Joler Gan</item>
+        <item>Moushumi Bhoumik</item>
+        <item>Chandrabindoo</item>
+        <item>Chandrabindoo</item>
+        <item>Chandrabindoo</item>
+        <item>Chandrabindoo</item>
+        <item>Bhoomi</item>
+        <item>Bhoomi</item>
+        <item>Bhoomi</item>
+        <item>Bhoomi</item>
+
+        <item>Anindya Bose</item>
+        <item>Fossils</item>
+        <item>Fossils</item>
+        <item>Cactus</item>
+        <item>Love Runs Blind</item>
+        <item>Cactus</item>
+        <item>Cactus</item>
+        <item>Pota</item>
+        <item>Sachin Dev Burman</item>
+        <item>Moheener Ghoraguli</item>
+    </string-array>
+</resources>
