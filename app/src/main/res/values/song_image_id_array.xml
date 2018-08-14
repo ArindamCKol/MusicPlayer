@@ -38,13 +38,14 @@
         <item>@drawable/hey_jude</item>
         <item>@drawable/yellow_submarine</item>
         <item>@drawable/while_my_guitar_gently_weeps</item>
+        <item>@drawable/la_bamba</item>
         <item>@drawable/imagine</item>
         <item>@drawable/beat_it</item>
         <item>@drawable/stairway_to_heaven</item>
         <item>@drawable/purple_haze</item>
         <item>@drawable/bridge_over_troubled_water</item>
-        <item>@drawable/when_you_say_nothing_at_all</item>
 
+        <item>@drawable/when_you_say_nothing_at_all</item>
         <item>@drawable/another_day_in_paradise</item>
         <item>@drawable/lady_in_red</item>
         <item>@drawable/wonderful_tonight</item>
@@ -107,7 +108,7 @@
         <item>@drawable/se_ki_firbe_na</item>
         <item>@drawable/tui_amay_pagol_korli_re</item>
         <item>@drawable/kalankini_radha</item>
-        <item>@drawable/tomay_dilam</item>
         <item>@drawable/shonogo_dokhino_haoya</item>
+        <item>@drawable/tomay_dilam</item>
     </array>
 </resources>
