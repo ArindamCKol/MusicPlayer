@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Music Player</string>
+    <string name="show_name">Name : %s</string>
+    <string name="show_artist">Artist : %s</string>
 
     <string-array name="genre_name">
         <item>Bangla Boul Song</item>
