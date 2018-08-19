@@ -16,8 +16,7 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
     private int nowPlaying;
     private boolean isPlaying;
     ImageView songPlayingImage;
-    TextView songPlayingName;
-    TextView songPlayingArtist;
+    TextView songPlayingName, songPlayingArtist, songPlayerDuration, songPlayerURL;
     ImageButton prevButton, playButton, nextButton;
 
     @Override
@@ -33,6 +32,8 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
         songPlayingImage = findViewById(R.id.song_player_image);
         songPlayingName = findViewById(R.id.song_player_name);
         songPlayingArtist =findViewById(R.id.song_player_artist);
+        songPlayerDuration = findViewById(R.id.song_player_duration);
+        songPlayerURL = findViewById(R.id.song_player_url);
         prevButton = findViewById(R.id.prev_button);
         playButton = findViewById(R.id.play_button);
         nextButton = findViewById(R.id.next_button);
@@ -79,6 +80,8 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
         songPlayingImage.setImageResource(songsToPlay.get(nowPlaying).getSongImageID());
         songPlayingName.setText(getString(R.string.show_name,songsToPlay.get(nowPlaying).getSongName()));
         songPlayingArtist.setText(getString(R.string.show_artist,songsToPlay.get(nowPlaying).getSongArtist()));
+        songPlayerDuration.setText(getString(R.string.show_duration,songsToPlay.get(nowPlaying).getSongDuration()));
+        songPlayerURL.setText(getString(R.string.show_url,songsToPlay.get(nowPlaying).getSongURL()));
         playButton.setImageResource(R.drawable.baseline_play_arrow_black_36);
         isPlaying = false;
     }

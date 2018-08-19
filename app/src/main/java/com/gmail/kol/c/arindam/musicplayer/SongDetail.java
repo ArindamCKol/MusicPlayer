@@ -7,12 +7,16 @@ public class SongDetail implements Parcelable {
     private String songName;
     private String songArtist;
     private int songImageID;
+    private String songURL;
+    private String songDuration;
     private String songGenre;
 
-    SongDetail(String songName, String songArtist, int songImageID, String songGenre) {
+    SongDetail(String songName, String songArtist, int songImageID, String songDuration, String songURL, String songGenre) {
         this.songName = songName;
         this.songArtist = songArtist;
         this.songImageID = songImageID;
+        this.songDuration = songDuration;
+        this.songURL = songURL;
         this.songGenre = songGenre;
     }
 
@@ -20,6 +24,8 @@ public class SongDetail implements Parcelable {
         songName = in.readString();
         songArtist = in.readString();
         songImageID = in.readInt();
+        songDuration = in.readString();
+        songURL = in.readString();
         songGenre = in.readString();
     }
 
@@ -47,6 +53,14 @@ public class SongDetail implements Parcelable {
         return songImageID;
     }
 
+    public String getSongDuration() {
+        return songDuration;
+    }
+
+    public String getSongURL () {
+        return songURL;
+    }
+
     public String getSongGenre() {
         return songGenre;
     }
@@ -61,6 +75,8 @@ public class SongDetail implements Parcelable {
         parcel.writeString(songName);
         parcel.writeString(songArtist);
         parcel.writeInt(songImageID);
+        parcel.writeString(songDuration);
+        parcel.writeString(songURL);
         parcel.writeString(songGenre);
     }
 }

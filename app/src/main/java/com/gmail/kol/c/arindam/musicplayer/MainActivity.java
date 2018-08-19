@@ -60,12 +60,14 @@ public class MainActivity extends AppCompatActivity {
         String [] songNameList = res.getStringArray(R.array.song_name);
         String [] songArtistList = res.getStringArray(R.array.song_artist);
         TypedArray songImageList = res.obtainTypedArray(R.array.song_image_id);
+        String [] songDurationList = res.getStringArray(R.array.song_duration);
+        String [] songURLList = res.getStringArray(R.array.song_url);
 
         int genrePosition = 0;
 
         for (int i=0; i<songNameList.length; i++) {
             if(i>0 && ((i%10) == 0)) {genrePosition++;}
-            SongDetail temp = new SongDetail(songNameList[i], songArtistList[i],songImageList.getResourceId(i,R.drawable.ic_launcher_background), genreList.get(genrePosition).getGenreName());
+            SongDetail temp = new SongDetail(songNameList[i], songArtistList[i],songImageList.getResourceId(i,R.drawable.ic_launcher_background), songDurationList[i],songURLList[i], genreList.get(genrePosition).getGenreName());
             songList.add(temp);
         }
         songImageList.recycle();

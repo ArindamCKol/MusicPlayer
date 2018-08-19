@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_url">
+        <item>https://www.youtube.com/watch?v=WQQV8iQYHKI</item>
+        <item>https://www.youtube.com/watch?v=8RvuVWOV0OY</item>
+        <item>https://www.youtube.com/watch?v=d3LfFrJME0A</item>
+        <item>https://www.youtube.com/watch?v=wuZ6HhUI2u8</item>
+        <item>https://www.youtube.com/watch?v=gtbIs6Xpn84</item>
+        <item>https://www.youtube.com/watch?v=lO4ZYvrbOAA</item>
+        <item>https://www.youtube.com/watch?v=BDfot65mt0M</item>
+        <item>https://www.youtube.com/watch?v=XoE7p_USoXk</item>
+        <item>https://www.youtube.com/watch?v=vH3scEQKtNc</item>
+        <item>https://www.youtube.com/watch?v=3-KWAFMxhiU</item>
+
+        <item>https://www.youtube.com/watch?v=1nfKpiGwRVo</item>
+        <item>https://www.youtube.com/watch?v=vmFqQseBtxk</item>
+        <item>https://www.youtube.com/watch?v=Ze0Y1-DhDEE</item>
+        <item>https://www.youtube.com/watch?v=dU1lx2xcRt0</item>
+        <item>https://www.youtube.com/watch?v=a_DJMSvLt-8</item>
+        <item>https://www.youtube.com/watch?v=PuM858-g0Iw</item>
+        <item>https://www.youtube.com/watch?v=arwHsOYn9Hs</item>
+        <item>https://www.youtube.com/watch?v=gD7x8s3gvOY</item>
+        <item>https://www.youtube.com/watch?v=YEXVVq0h7Ak</item>
+        <item>https://www.youtube.com/watch?v=Zio7VV8B6zk</item>
+
+        <item>https://www.youtube.com/watch?v=B_K6z3HiRAs</item>
+        <item>https://www.youtube.com/watch?v=vWwgrjjIMXA</item>
+        <item>https://www.youtube.com/watch?v=1vrEljMfXYo</item>
+        <item>https://www.youtube.com/watch?v=eOB4VdlkzO4</item>
+        <item>https://www.youtube.com/watch?v=diwuu_r6GJE</item>
+        <item>https://www.youtube.com/watch?v=RNOTF-znQyw</item>
+        <item>https://www.youtube.com/watch?v=LVQ6Y8szaBQ</item>
+        <item>https://www.youtube.com/watch?v=UbJ12_r1Li8</item>
+        <item>https://www.youtube.com/watch?v=XUwUp-D_VV0</item>
+        <item>https://www.youtube.com/watch?v=PYF8Y47qZQY</item>
+
+        <item>https://www.youtube.com/watch?v=EqPtz5qN7HM</item>
+        <item>https://www.youtube.com/watch?v=FhXU8c8qwXs</item>
+        <item>https://www.youtube.com/watch?v=m2uTFF_3MaA</item>
+        <item>https://www.youtube.com/watch?v=mgIbPzGNhIM</item>
+        <item>https://www.youtube.com/watch?v=Coy8Hoa1DNw</item>
+        <item>https://www.youtube.com/watch?v=RwUGSYDKUxU</item>
+        <item>https://www.youtube.com/watch?v=oRdxUFDoQe0</item>
+        <item>https://www.youtube.com/watch?v=Nnu1E5Kslig</item>
+        <item>https://www.youtube.com/watch?v=fjwWjx7Cw8I</item>
+        <item>https://www.youtube.com/watch?v=H_a46WJ1viA</item>
+
+        <item>https://www.youtube.com/watch?v=inRNkwrMSVI</item>
+        <item>https://www.youtube.com/watch?v=Qt2mbGP6vFI</item>
+        <item>https://www.youtube.com/watch?v=Vt2YIpZWBqA</item>
+        <item>https://www.youtube.com/watch?v=DQlgcjosN9w</item>
+        <item>https://www.youtube.com/watch?v=JxPj3GAYYZ0</item>
+        <item>https://www.youtube.com/watch?v=eFjjO_lhf9c</item>
+        <item>https://www.youtube.com/watch?v=fXtlWmBM-HU</item>
+        <item>https://www.youtube.com/watch?v=9EHAo6rEuas</item>
+        <item>https://www.youtube.com/watch?v=62XB9IbMnxQ</item>
+        <item>https://www.youtube.com/watch?v=Hu8Uq1dDPVU</item>
+
+        <item>https://www.youtube.com/watch?v=0QdbeM2JWYE</item>
+        <item>https://www.youtube.com/watch?v=JddRkt_FYDY</item>
+        <item>https://www.youtube.com/watch?v=KC8g4XqVdfw</item>
+        <item>https://www.youtube.com/watch?v=mkTI1L2Ap3s</item>
+        <item>https://www.youtube.com/watch?v=hlWTASnnft4</item>
+        <item>https://www.youtube.com/watch?v=KEJa_VgpIAc</item>
+        <item>https://www.youtube.com/watch?v=LiZT61zp-xE</item>
+        <item>https://www.youtube.com/watch?v=pTrl0PVh1R0</item>
+        <item>https://www.youtube.com/watch?v=4wAu9K8XKyI</item>
+        <item>https://www.youtube.com/watch?v=3tzE98pQH08</item>
+
+        <item>https://www.youtube.com/watch?v=rQKCiuSR2F8</item>
+        <item>https://www.youtube.com/watch?v=UWCmubP5h9c</item>
+        <item>https://www.youtube.com/watch?v=C4DPEEQZagM</item>
+        <item>https://www.youtube.com/watch?v=D74-4dN5Iag</item>
+        <item>https://www.youtube.com/watch?v=AXx5kl0lFIY</item>
+        <item>https://www.youtube.com/watch?v=RDMbOU7S1Z8</item>
+        <item>https://www.youtube.com/watch?v=PHU-AJTn0I8</item>
+        <item>https://www.youtube.com/watch?v=2oyhlad64-s</item>
+        <item>https://www.youtube.com/watch?v=jxodluTaz4g</item>
+        <item>https://www.youtube.com/watch?v=BdTre5XBh6I</item>
+
+        <item>https://www.youtube.com/watch?v=tTcnIYYeZI8</item>
+        <item>https://www.youtube.com/watch?v=3gzqsmx1KGU</item>
+        <item>https://www.youtube.com/watch?v=CuW84DE23mk</item>
+        <item>https://www.youtube.com/watch?v=Zk8cdqpqJb8</item>
+        <item>https://www.youtube.com/watch?v=jNfV1M6_6bs</item>
+        <item>https://www.youtube.com/watch?v=XxXuVOpEIwA</item>
+        <item>https://www.youtube.com/watch?v=3wdZ0X-jm0s</item>
+        <item>https://www.youtube.com/watch?v=-lBJ3ZYy_XA</item>
+        <item>https://www.youtube.com/watch?v=q2GfeBpE0To</item>
+        <item>https://www.youtube.com/watch?v=Yng0n_-_UV0</item>
+
+        <item>https://www.youtube.com/watch?v=GY-wSQ_uzVo</item>
+        <item>https://www.youtube.com/watch?v=aiMtb5g6970</item>
+        <item>https://www.youtube.com/watch?v=B0ECFWqrJSQ</item>
+        <item>https://www.youtube.com/watch?v=I4uEZJcXjEw</item>
+        <item>https://www.youtube.com/watch?v=ZifgKwiqKV0</item>
+        <item>https://www.youtube.com/watch?v=LImWtkAQsKc</item>
+        <item>https://www.youtube.com/watch?v=0UwFar9QrlA</item>
+        <item>https://www.youtube.com/watch?v=Ysin-ZxTH0k</item>
+        <item>https://www.youtube.com/watch?v=LTtMuq6ZSFg</item>
+        <item>https://www.youtube.com/watch?v=ZRdljU2dtAo</item>
+
+        <item>https://www.youtube.com/watch?v=aef6Ao5BMXQ</item>
+        <item>https://www.youtube.com/watch?v=qZ03wDovzX8</item>
+        <item>https://www.youtube.com/watch?v=9tTN2P_DQp4</item>
+        <item>https://www.youtube.com/watch?v=bhrRNLUIkm8</item>
+        <item>https://www.youtube.com/watch?v=vIHLaQo7wCk</item>
+        <item>https://www.youtube.com/watch?v=bQ9KPzPxpLU</item>
+        <item>https://www.youtube.com/watch?v=l7qVEEOS7u4</item>
+        <item>https://www.youtube.com/watch?v=HcHry3z4FCQ</item>
+        <item>https://www.youtube.com/watch?v=o6x4vff29Ys</item>
+        <item>https://www.youtube.com/watch?v=cvXG4FBQFZ0</item>
+    </string-array>
+</resources>
