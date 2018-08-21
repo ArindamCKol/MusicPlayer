@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /*load genre data from string xml file*/
     public void loadGenre() {
         Resources res = getResources();
         String [] genreNameList = res.getStringArray(R.array.genre_name);
@@ -55,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         genreImageList.recycle();
     }
 
+    /*load song data from xml files*/
     public void loadSong () {
         Resources res = getResources();
         String [] songNameList = res.getStringArray(R.array.song_name);
@@ -73,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
         songImageList.recycle();
     }
 
+    /*select songs by selected genre*/
     public ArrayList<SongDetail> selectSongByGenre(String genre) {
         ArrayList <SongDetail> temp = new ArrayList<>();
 

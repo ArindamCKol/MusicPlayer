@@ -12,6 +12,9 @@ import java.util.ArrayList;
 
 public class SongPlayerActivity extends AppCompatActivity implements View.OnClickListener {
 
+    static final String STATE_NOW_PLAYIG = "song_now_playing";
+    static final String STATE_PLAY = "is_song_playing";
+
     private ArrayList<SongDetail> songsToPlay;
     private int nowPlaying;
     private boolean isPlaying;
@@ -38,11 +41,24 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
         playButton = findViewById(R.id.play_button);
         nextButton = findViewById(R.id.next_button);
 
+        if(savedInstanceState!=null) {
+            nowPlaying = savedInstanceState.getInt(STATE_NOW_PLAYIG);
+            isPlaying = savedInstanceState.getBoolean(STATE_PLAY);
+        }
+
+        setTitle(R.string.player);
         showSongDetails();
 
         prevButton.setOnClickListener(this);
         playButton.setOnClickListener(this);
         nextButton.setOnClickListener(this);
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        outState.putInt(STATE_NOW_PLAYIG,nowPlaying);
+        outState.putBoolean(STATE_PLAY,isPlaying);
+        super.onSaveInstanceState(outState);
     }
 
     @Override
@@ -53,15 +69,14 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
                     nowPlaying--;
                 else
                     nowPlaying=songsToPlay.size()-1;
+                isPlaying=false;
                 showSongDetails();
                 break;
             case R.id.play_button :
-                if(!isPlaying) {
-                    playButton.setImageResource(R.drawable.baseline_pause_black_36);
-                    isPlaying = true;
+                if(isPlaying) {
+                    pauseMusic();
                 } else {
-                    playButton.setImageResource(R.drawable.baseline_play_arrow_black_36);
-                    isPlaying = false;
+                    playMusic();
                 }
                 break;
             case R.id.next_button :
@@ -69,6 +84,7 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
                     nowPlaying++;
                 else
                     nowPlaying=0;
+                isPlaying=false;
                 showSongDetails();
                 break;
             default: break;
@@ -82,6 +98,19 @@ public class SongPlayerActivity extends AppCompatActivity implements View.OnClic
         songPlayingArtist.setText(getString(R.string.show_artist,songsToPlay.get(nowPlaying).getSongArtist()));
         songPlayerDuration.setText(getString(R.string.show_duration,songsToPlay.get(nowPlaying).getSongDuration()));
         songPlayerURL.setText(getString(R.string.show_url,songsToPlay.get(nowPlaying).getSongURL()));
+        if(isPlaying) {
+            playMusic();
+        } else {
+            pauseMusic();
+        }
+    }
+
+    public void playMusic() {
+        playButton.setImageResource(R.drawable.baseline_pause_black_36);
+        isPlaying = true;
+    }
+
+    public void pauseMusic() {
         playButton.setImageResource(R.drawable.baseline_play_arrow_black_36);
         isPlaying = false;
     }

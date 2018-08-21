@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Music Player</string>
-    <string name="show_name">Name : %s</string>
+    <string name="app_name">Flavours of Music</string>
+    <string name="player">Music Player</string>
+    <string name="show_name">Song : %s</string>
     <string name="show_artist">Artist : %s</string>
     <string name="show_duration">Duration : %s</string>
     <string name="show_url">URL : %s</string>
